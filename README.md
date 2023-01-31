@@ -1,0 +1,1 @@
+# Task solutions from [codewars](https://www.codewars.com)
