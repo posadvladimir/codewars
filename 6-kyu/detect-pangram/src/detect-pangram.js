@@ -1,5 +1,5 @@
 
-function isPangram(string){
+function isPangramFirstSolution(string) {
     const alphabetLength = 26;
     const unicodeValueA = 65;
     const unicodeValueZ = 90;
@@ -15,4 +15,13 @@ function isPangram(string){
     return lettersSet.size === alphabetLength;
 }
 
-module.exports = isPangram;
+function isPangramSecondSoltuion(string) {
+    const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+
+    return alphabet.split('').every((letter) => string.toLowerCase().includes(letter));
+}
+
+module.exports = {
+    isPangramFirstSolution,
+    isPangramSecondSoltuion
+};

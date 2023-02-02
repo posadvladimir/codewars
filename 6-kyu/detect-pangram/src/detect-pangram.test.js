@@ -1,11 +1,21 @@
 
-const isPangram = require('./detect-pangram');
+const { isPangramFirstSolution, isPangramSecondSoltuion } = require('./detect-pangram');
 
 describe(('Detect Pangram'), () => {
-    test('The quick brown fox jumps over the lazy dog.', () => {
-        expect(isPangram('The quick brown fox jumps over the lazy dog.')).toBe(true);
+    describe(('First solution'), () => {
+        test('The quick brown fox jumps over the lazy dog.', () => {
+            expect(isPangramFirstSolution('The quick brown fox jumps over the lazy dog.')).toBe(true);
+        })
+        test('This is not a pangram.', () => {
+            expect(isPangramFirstSolution('This is not a pangram.')).toBe(false);
+        })
     })
-    test('This is not a pangram.', () => {
-        expect(isPangram('This is not a pangram.')).toBe(false);
+    describe(('Second solution'), () => {
+        test('The quick brown fox jumps over the lazy dog.', () => {
+            expect(isPangramSecondSoltuion('The quick brown fox jumps over the lazy dog.')).toBe(true);
+        })
+        test('This is not a pangram.', () => {
+            expect(isPangramSecondSoltuion('This is not a pangram.')).toBe(false);
+        })
     })
 })
