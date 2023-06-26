@@ -35,4 +35,4 @@ productFib(447577); // [610, 987, false]
 productFib(74049690); // [6765, 10946, true ]
 ```
 
-[Link on codewars](https://www.codewars.com/kata/product-of-consecutive-fib-numbers)
+[Link to Codewars](https://www.codewars.com/kata/product-of-consecutive-fib-numbers)

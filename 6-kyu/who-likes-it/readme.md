@@ -18,4 +18,4 @@ getLikes(['Max', 'John', 'Mark']); // Max, John and Mark like this
 getLikes(['Alex', 'Jacob', 'Mark', 'Max']); // Alex, Jacob and 2 others like this
 ```
 
-[Link on codewars](https://www.codewars.com/kata/who-likes-it)
+[Link to Codewars](https://www.codewars.com/kata/who-likes-it)

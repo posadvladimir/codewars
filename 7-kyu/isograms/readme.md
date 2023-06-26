@@ -12,4 +12,4 @@ isIsogram('moose'); // false
 isIsogram('aba'); // false
 ```
 
-[Link on codewars](https://www.codewars.com/kata/isograms)
+[Link to Codewars](https://www.codewars.com/kata/isograms)

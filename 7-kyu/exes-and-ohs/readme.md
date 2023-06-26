@@ -14,4 +14,4 @@ XO('zpzpzpp'); // true. When no 'x' and 'o' is present should return true
 XO('zzoo'); // false
 ```
 
-[Link on codewars](https://www.codewars.com/kata/exes-and-ohs)
+[Link to Codewars](https://www.codewars.com/kata/exes-and-ohs)

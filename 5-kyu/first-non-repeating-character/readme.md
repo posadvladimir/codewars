@@ -21,4 +21,4 @@ If a string contains all repeating characters, it should return an empty string 
     getFirstNonRepeatingCharacter(''); // ''
 ```
 
-[Link on codewars](https://www.codewars.com/kata/first-non-repeating-character)
+[Link to Codewars](https://www.codewars.com/kata/first-non-repeating-character)

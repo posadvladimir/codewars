@@ -16,4 +16,4 @@ multiplesOf3Or5(11); // 33
 multiplesOf3Or5(-5); // 0
 ```
 
-[Link on codewars](https://www.codewars.com/kata/multiples-of-3-or-5)
+[Link to Codewars](https://www.codewars.com/kata/multiples-of-3-or-5)

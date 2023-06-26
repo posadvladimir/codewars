@@ -13,4 +13,4 @@ addBinary(1, 1); // '10'
 addBinary(5, 9); // '1110'
 ```
 
-[Link on codewars](https://www.codewars.com/kata/binary-addition)
+[Link to Codewars](https://www.codewars.com/kata/binary-addition)

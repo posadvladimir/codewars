@@ -14,4 +14,4 @@ getCount('mbd'); // 0
 getCount('restry'); // 1
 ```
 
-[Link on codewars](https://www.codewars.com/kata/vowel-count)
+[Link to Codewars](https://www.codewars.com/kata/vowel-count)
