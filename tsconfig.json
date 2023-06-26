@@ -13,7 +13,11 @@
         // Enables checking for unused function parameters.
         "noUnusedParameters": true,
         // Allows the compiler to process JavaScript files.
-        "allowJs": true
+        "allowJs": true,
+        // Enables a special mode for working with ES modules.
+        "esModuleInterop": true,
+        // Enforces consistent casing in file names.
+        "forceConsistentCasingInFileNames": true,
     },
     "include": [
         "7-kyu",
