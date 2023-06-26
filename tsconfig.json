@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        // Sets the target ECMAScript version for the project's compilation.
+        "target": "es6",
+        // Specifies the module type to be used during the project's compilation.
+        "module": "commonjs",
+        // Enables strict type checking mode in TypeScript.
+        "strict": true,
+        // Enables checking for fallthrough cases in the switch statement.
+        "noFallthroughCasesInSwitch": true,
+        // Enables checking for unused local variables. 
+        "noUnusedLocals": true,
+        // Enables checking for unused function parameters.
+        "noUnusedParameters": true,
+        // Allows the compiler to process JavaScript files.
+        "allowJs": true
+    },
+    "include": [
+        "7-kyu",
+        "6-kyu",
+        "5-kyu"
+    ],
+    "exclude": ["node_modules"]
+}
