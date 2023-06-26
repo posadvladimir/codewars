@@ -1,4 +1,4 @@
-# Task solutions from [codewars](https://www.codewars.com)
+# Task solutions from [Codewars](https://www.codewars.com)
 
 ### Tasks
 
